@@ -58,6 +58,10 @@ flex-shrink: 0;
     100% { transform: rotate(360deg); }
 }
 
+#audioConfirmationModal {
+    z-index: 1000;
+}
+
 
 
 
